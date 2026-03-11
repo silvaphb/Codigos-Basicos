@@ -13,3 +13,9 @@ ESTADO: {geoip['regionName']} - {geoip['region']}
 OPERADORA: {geoip['isp']}
 """
 print(text)
+
+#||||||||||||||||||||||||||||||||||||||||||||||
+#||                                          ||
+#||             JEFFERSON SILVA              ||
+#||                                          ||
+#||||||||||||||||||||||||||||||||||||||||||||||

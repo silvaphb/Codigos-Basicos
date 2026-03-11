@@ -22,3 +22,9 @@ while True:
     restart = input('Quer jogar novamente? (y/n) > ')
     if restart != 'y':
         break
+
+#||||||||||||||||||||||||||||||||||||||||||||||
+#||                                          ||
+#||             JEFFERSON SILVA              ||
+#||                                          ||
+#||||||||||||||||||||||||||||||||||||||||||||||
